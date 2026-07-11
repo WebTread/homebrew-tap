@@ -1,8 +1,8 @@
 cask "supergrok-mac" do
   version "1.1.0"
-  sha256 "c20312dc874bf624490e47a194e6dcec79117d6f2e1abd5fd126a33d52d6f4d7"
+  sha256 "c222739c474368dfd570ec7f3ddfda9fa1d7c1858f57678089e4f896da3044c8"
 
-  url "https://supergrokmac.com/downloads/SuperGrok-Mac-#{version}-b17.zip"
+  url "https://supergrokmac.com/downloads/SuperGrok-Mac-#{version}-b18.zip"
   name "SuperGrok Mac"
   desc "Native macOS desk for xAI's Grok coding agent (fan-built, free)"
   homepage "https://supergrokmac.com"
